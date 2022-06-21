@@ -14,4 +14,5 @@ https://youtu.be/mSAcXagf1O0
 - Source Code
 - supports to 27 Languages
 # SonarQube Console Overview
-https://youtu.be/jkMrZYhqA9A
+1. https://youtu.be/jkMrZYhqA9A
+2. https://youtu.be/-5YKWZhkf6g
